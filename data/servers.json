@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "code": "ninja",
+    "host": "http://ninja4k.sbs:80",
+    "name": "سيرفر جلاكسي الأساسي"
+  },
+  {
+    "id": 2,
+    "code": "Ninja",
+    "host": "http://ninja4k.sbs:8080",
+    "name": "سيرفر جلاكسي الاحتياطي"
+  }
+]

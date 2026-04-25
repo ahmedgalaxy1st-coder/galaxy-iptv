@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "appName": "Galaxy IPTV",
+    "logoUrl": "https://i.postimg.cc/mkBxsR6v/logo.png",
+    "backgroundUrl": "https://i.postimg.cc/RVcfFJG6/galaxy-banner.jpg",
+    "whatsappNumber": "00201050501080",
+    "whatsappVisible": true,
+    "primaryColor": "#a855f7",
+    "streamFormat": "m3u8"
+  },
+  "admin": {
+    "username": "admin",
+    "password": "01006240785"
+  },
+  "servers": [
+    {
+      "id": 1,
+      "name": "سيرفر جلاكسي الرئيسي",
+      "code": "galaxy1",
+      "host": "http://your-host.com:8080"
+    },
+    {
+      "id": 1777072644555,
+      "name": "Ninja",
+      "code": "ninja",
+      "host": "http://ninja4k.sbs:80"
+    }
+  ]
+}
